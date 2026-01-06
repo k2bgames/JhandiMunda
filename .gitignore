@@ -6,12 +6,8 @@ Build/
 Builds/
 Logs/
 
-# External assets (NOT in Git)
-Assets/ExternalAssets/
-Assets/Art/
-Assets/Audio/
-Assets/Models/
-Assets/Animations/
+# Visual Studio
+.vs/
 
 # Addressables output
 ServerData/

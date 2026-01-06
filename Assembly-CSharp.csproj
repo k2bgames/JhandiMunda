@@ -61,7 +61,20 @@
     <Analyzer Include="S:\Unity Editors\6000.3.1f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Sanam\Scripts\Players\UI\UIBetDetailDisplay.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Game scene controllers\BetManager.cs" />
+    <Compile Include="Assets\Sanam\Scripts\UI\GameLoadingTimer.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Game scene controllers\PlayerCreationManager.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Game scene controllers\KhorKhoreGameManager.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Players\UserPlayerController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Game scene controllers\PlayerUIManager.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Players\IPlayer.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Game scene controllers\IconManager.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Players\BotPlayer.cs" />
+    <Compile Include="Assets\Sanam\Scripts\Game scene controllers\UIManager.cs" />
+    <Compile Include="Assets\Sanam\Scripts\ButtonsDetail\KhorKhoreIconButtons.cs" />
+    <Compile Include="Assets\Scripts\Utilities\Singleton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -76,6 +89,7 @@
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\I am Test.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
